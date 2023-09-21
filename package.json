@@ -1,5 +1,5 @@
 {
-  "name": "first-react-native-projet",
+  "name": "first-react-native-projet-guess",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
